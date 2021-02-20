@@ -8,4 +8,8 @@ The data comes from [Anime Recommendations Database](https://www.kaggle.com/Coop
 * Numpy
 * Pandas
 
+## Next steps
+* Add a visual interface (html, css and JS)
+* Translate code comments to english
+
 This project is just for learning purpose.
