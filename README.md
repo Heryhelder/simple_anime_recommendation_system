@@ -2,7 +2,7 @@
 
 ## Intro
 
-Simple recommendation system for anime titles. It uses the genres of the animes to recommend more titles to the costumer, based on their likings.
+Simple content-based recommendation system for anime titles. It uses the genres of the animes to recommend more titles to the costumer, based on their ratings.
 
 ## Data
 
